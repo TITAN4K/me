@@ -1,0 +1,59 @@
+.my-color
+{
+color: black;
+}
+body
+ {font-family:san serif;
+  color: black;
+  background-color: blue;
+  lineheight: 25px; }
+.half-width
+  {
+  width: 50%;
+  float: left;
+  }
+  .side
+  {
+    width: 100%;
+    padding: 25%;
+  }
+  .primary
+  {color: red;
+  background-color: black;
+  margin: 10px 15px 20px 15px;
+  padding: 10px 30px 10px 30px;
+  border-radius: 80px;
+  text-decoration: none;}
+  h1{
+    font-size: 1.5em;
+    text-decoration: underline;
+  }
+  . container{
+    padding-left:5%;
+    display: inline-block;
+  }
+  .sth{
+    width: 90%;
+    padding: 5%;
+  }
+  .line{
+    text-decoration: underline;
+    color: black;
+  }
+  .experiences{
+    padding: 20px
+    margin: 10px 20px 10px 20px;
+    background-color: green;
+    border-radius: 20px;
+  }
+  .experience-item{
+    padding: 10px;
+    border-left: 1px solid rbga(137, 139, 257);
+  }
+  
+  
+  
+  
+  
+  
+  
